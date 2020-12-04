@@ -321,3 +321,8 @@ community.
 open data packages.
 
 * [_ImageFu_](https://www.imagefu.com/) A good tool to create button images.
+
+Resources
+1) stackoverflow
+2) CS50
+3) Pynative
